@@ -1,0 +1,21 @@
+{
+  "svelte": "Box.svelte",
+  "name": "svelte-box",
+  "version": "1.0.0",
+  "description": "test simple svelte component, the box component",
+  "main": "Box.svelte",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "git+https://github.com/me7/svelte-box.git",
+  "keywords": [
+    "svelte",
+    "component"
+  ],
+  "author": "Gampol T.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/me7/svelte-box/issues"
+  },
+  "homepage": "https://github.com/me7/svelte-box#readme"
+}
